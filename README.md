@@ -1,4 +1,4 @@
-# Final Project: LightningType
+# Final Project: PC BOT
 
 #### Last Updated: January 20, 2022
 
